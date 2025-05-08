@@ -32,7 +32,7 @@ func loadPage(title string) (*Page, error) {
 }
 
 func main(){
-	const port = ":80"
+	const port = ":81"
 
 	fmt.Println("Starting go app");
 
